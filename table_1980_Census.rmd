@@ -1,5 +1,5 @@
 ---
-title: 1980 Census Table
+title: Age by Spanish Origin - 1980 U.S. Census
 author: Rob Kemp
 date: 11/12/2021
 output: html_document
